@@ -1,4 +1,4 @@
-# MIG ***Part***iton ***Ed***itor for NVIDIA GPUs
+# MIG ***Part***ition ***Ed***itor for NVIDIA GPUs
 
 MIG (short for Multi-Instance GPU) is a mode of operation in the newest
 generation of NVIDIA Ampere GPUs. It allows one to partition a GPU into a set
